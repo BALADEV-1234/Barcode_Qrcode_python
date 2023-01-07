@@ -16,20 +16,31 @@ This repo is simple demonstration  of  creating and decoding barcodes, qrcodes u
 ```bash
 pip install  -r "./requirements.txt"
 ```
-2. if you got the error "ImportError: Unable to find zbar shared library" :-
+2. if you get the error "ImportError: Unable to find zbar shared library" :-
 ```bash
 !apt install libzbar0
 ```
 ## Supported Formats in python-barcode
 EAN-8
+
 EAN-13
+
 EAN-14
+
 UPC-A
+
 JAN
+
 ISBN-10
+
 ISBN-13
+
 ISSN
+
 Code 39
+
 Code 128
+
 PZN
+
 
