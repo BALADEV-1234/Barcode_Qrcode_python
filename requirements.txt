@@ -1,0 +1,5 @@
+python-barcode
+python-barcode[images]
+qrcode
+qrcode[pil]
+pyzbar
